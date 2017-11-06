@@ -1,0 +1,24 @@
+{
+  "name": "Nulphelp_bot",
+  "version": "1.0.0",
+  "description": "Bot for Lviv Polytechnic National University, created for help student in their life",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chatbot",
+    "nodejs",
+    "telegram",
+    "Nulphelp_bot",
+    "nulp"
+  ],
+  "author": "Vasko Vadym (https://vadikcorp.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-telegram-bot-api": "^0.28.0",
+    "telegram-node-bot": "^4.0.3"
+  }
+}
